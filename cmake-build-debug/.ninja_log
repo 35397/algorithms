@@ -1,0 +1,18 @@
+# ninja log v5
+2	112	7327902425047736	build.ninja	48ec86735816a586
+0	106	7327902256226556	CMakeFiles/algorithms.dir/sorts/ImplementationFiles/InsertionSort.cpp.obj	bfb54ab10c7fe754
+3	111	7327902256366179	CMakeFiles/algorithms.dir/sorts/ImplementationFiles/HeapSort.cpp.obj	20b0d53516a88cd8
+111	211	7327902257398625	CMakeFiles/algorithms.dir/sorts/ImplementationFiles/ShellSort.cpp.obj	c9ddba857948f07a
+17	671	7327902262007190	CMakeFiles/algorithms.dir/sorts/ImplementationFiles/CountSort.cpp.obj	7d9a285e4ffec3cd
+13	665	7327902261967175	CMakeFiles/algorithms.dir/sorts/ImplementationFiles/DoubleSelectionSort.cpp.obj	a87937f0f2e71d8c
+6	686	7327902262096863	CMakeFiles/algorithms.dir/sorts/ImplementationFiles/DualPivotQuickSort.cpp.obj	1efc3d96147a746b
+686	773	7327902263060327	CMakeFiles/algorithms.dir/sorts/ImplementationFiles/FindMinMax.cpp.obj	348b5b2334dab3e6
+106	870	7327902263972987	CMakeFiles/algorithms.dir/main.cpp.obj	23e478d8e073e88d
+211	878	7327902264092728	CMakeFiles/algorithms.dir/sorts/ImplementationFiles/RadixSort.cpp.obj	22f03954b14a69e4
+9	883	7327902264152564	CMakeFiles/algorithms.dir/sorts/ImplementationFiles/BucketSort.cpp.obj	70ad050d43a7689f
+773	1253	7327902267863060	CMakeFiles/algorithms.dir/sorts/ImplementationFiles/BubbleSort.cpp.obj	b1bf079ba156d54c
+667	1195	7327902267284622	CMakeFiles/algorithms.dir/sorts/ImplementationFiles/SelectionSort.cpp.obj	bcca4c6f57f5bbb8
+672	1220	7327902267533953	CMakeFiles/algorithms.dir/sorts/ImplementationFiles/QuickSort.cpp.obj	8aa23429e29860db
+1253	1374	7327902269029551	algorithms.exe	c01a924ddc8023b7
+4	399	7356497424565111	CMakeFiles/algorithms.dir/main.cpp.obj	23e478d8e073e88d
+399	495	7356497425486088	algorithms.exe	c01a924ddc8023b7
