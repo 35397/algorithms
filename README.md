@@ -11,5 +11,5 @@ Consist of two directories: Header and Implementation files. For each sorts crea
 There is "helper" class which find minimum or/and maximum value and return index of this value.
 
 ### Unfinished
- Count sort, Segmentation fault
+ Count sort, Segmentation fault,
  Encapsulate all classes
